@@ -1,0 +1,193 @@
+*{
+    font-family: 'Raleway', sans-serif;
+  box-sizing: border-box;
+  
+}
+
+p h1{
+    color: whitesmoke;
+}
+
+header, section {
+    overflow-x: hidden;
+}
+
+:root{
+    --bggradient: linear-gradient(to bottom, #dd2476 #ff512f);
+    --light-gray: rgba(225,225,225,0.4);
+}
+
+header {
+    font-size: 0.9em;
+    color: whitesmoke;
+    background-image: url("https://i.redd.it/21hgja747x521.png");
+    background-repeat: no-repeat;
+    
+}
+
+header .nav-item:last-child{
+    padding-right: 10.5em;
+}
+
+header .navbar-brand{
+    padding-left: 2rem;
+    
+}
+
+header .nav-link{
+    color: whitesmoke;
+    font-weight: bold;
+    
+}
+
+header .nav-link:hover{
+    color: black;
+}
+
+
+header .row .col-md-5{
+    padding: 4.2vmin 1vmin;
+}
+
+header .row .col-md-7{
+    padding: 22vmin 1vmin;
+    padding-bottom:30vmin;
+}
+
+header .row .col-md-5 img{
+    width:90%;
+}
+
+header .container .col-md-7 h6{
+    padding:1vmin;
+    letter-spacing: 3.5px;
+    font-weight: bold;
+}
+
+header .container .col-md-7 h1{
+    font-size: 8.5vmin;
+    font-weight: bold;
+    padding: 0.1em 0em;
+}
+
+header .container .col-md-7 button{
+    border-radius: 30px;
+    font-weight: bold;
+    
+}
+
+/* Section 1 */
+
+.section-1{
+    padding: 20vmin 0;
+    background: black;
+}
+
+.section-1 .row .col-md-6 .pray img{
+    opacity: 0.9;
+    width: 100%;   
+}
+
+.text-left{
+color: whitesmoke;
+}
+
+/* Section 2 */
+
+.cover {
+    width:100%;
+    height: 100vmin;
+    background-image: url(https://i.redd.it/jjaca207dw021.png);
+    background-repeat: no-repeat;
+    padding: 20vmin 0;
+    margin-bottom: 9rem;
+    transition: .5s ease;
+
+}
+
+
+
+
+.B-elements{
+    color: white;
+    left: 50%;
+    top: 70%;
+    align-content: center;
+    letter-spacing: 0.4rem;
+    font-weight: bold;
+}
+
+.section-2 {
+    background-color: black;
+}
+
+.section-3 {
+    background-color: black;
+}
+
+.logo-1{
+    width: 100%;
+}
+
+.D{
+    color: white;
+}
+
+.card-body{
+   background-color: #2C2B2B;
+    background-position: -10rem;
+    background-repeat: no-repeat;
+  background-position: 50% 50%;
+  background-size: cover;
+  
+  height: 50%;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+    position: static;
+}
+
+.card-text{
+    color: white;
+}
+
+.card-text h1{
+    font-weight: bold;
+    position: relative;
+    margin-bottom: 300px;
+    font-size: 8.5vmin;
+    letter-spacing: 0.4rem;
+    font-size: 8.5vmin;
+    padding: 0.1em 0em;
+}
+
+.bold{
+    font-size: 4vmin;
+    font-weight: bold;
+    letter-spacing: 0.4rem;
+}
+/* section 3 */
+
+.section-3 {
+background-color: #E1DAD9;
+padding-bottom: 40px;
+
+
+
+
+}
+
+.text-dark .text-secondary {
+    color: white;
+}
+
+.insta{
+    width: 30px;
+}
+
+.footer{
+    background-color: black;
+}
